@@ -15,14 +15,14 @@ function Footer() {
               </a>
             </div>
             <a
-              href="https://www.twitter.com/endiliey"
+              href="https://www.twitter.com/op07n"
               target="_blank"
               rel="noopener noreferrer">
               twitter
             </a>{' '}
             &bull;{' '}
             <a
-              href="https://github.com/endiliey"
+              href="https://github.com/op07n"
               target="_blank"
               rel="noopener noreferrer">
               github
