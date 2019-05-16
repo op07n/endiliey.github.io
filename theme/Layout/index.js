@@ -13,7 +13,7 @@ function BlogLayout(props) {
   const {children, title, isBlogListPage, description} = props;
 
   const renderBio = () => {
-    const authorImageURL = `https://avatars1.githubusercontent.com/u/17883920?s=400&u=0c9bcb0ad70e3ceb7eb10a8116f0a976c46624fa&v=4`;
+    const authorImageURL = `https://avatars1.githubusercontent.com/u/39182105?s=400&v=4`;
     const author = 'op07n';
     const authorURL = 'https://github.com/op07n';
     return (
