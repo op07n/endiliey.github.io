@@ -1,7 +1,7 @@
 # endiliey.github.io 
-[![Build Status](https://travis-ci.com/endiliey/endiliey.github.io.svg?branch=source)](https://travis-ci.com/endiliey/endiliey.github.io)
+[![Build Status](https://travis-ci.com/op07n/op07n.github.io.svg?branch=source)](https://travis-ci.com/op07n/op07n.github.io)
 
-This is Endi's personal blog created with Docusaurus 2
+This is op07n personal blog created with Docusaurus 2
 
 # Quick Start
 
