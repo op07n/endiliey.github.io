@@ -10,7 +10,6 @@ const siteConfig = {
       {href: 'https://forum.op07n.com', label: 'Forum'},
       {href: 'https://github.com/op07n', label: 'GitHub'},
     ],
-    },
   },
   headerIcon: 'img/endilie.gif',
   favicon: 'img/endilie.gif',
