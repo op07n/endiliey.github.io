@@ -14,8 +14,8 @@ function BlogLayout(props) {
 
   const renderBio = () => {
     const authorImageURL = `https://avatars1.githubusercontent.com/u/17883920?s=400&u=0c9bcb0ad70e3ceb7eb10a8116f0a976c46624fa&v=4`;
-    const author = 'Endi';
-    const authorURL = 'https://github.com/endiliey';
+    const author = 'op07n';
+    const authorURL = 'https://github.com/op07n';
     return (
       <div className="avatar">
         {authorImageURL && (
