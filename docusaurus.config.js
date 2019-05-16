@@ -1,14 +1,14 @@
 const siteConfig = {
   title: 'Endilie Y',
   tagline: 'I love building things',
-  url: 'https://endiliey.github.io',
+  url: 'https://op07n.github.io',
   baseUrl: '/',
-  projectName: 'endiliey.github.io',
+  projectName: 'op07n.github.io',
   organizationName: 'endiliey',
   themeConfig: {
     headerLinks: [
       {href: 'https://forum.endiliey.com', label: 'Forum'},
-      {href: 'https://github.com/endiliey', label: 'GitHub'},
+      {href: 'https://github.com/op07n', label: 'GitHub'},
     ],
     algolia: {
       apiKey: '171b70d5e547d2101578da9a40c0d9f5',
